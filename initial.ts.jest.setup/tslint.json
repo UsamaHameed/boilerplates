@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "no-console": [true, "debug", "info", "log"],
+    "prefer-for-of": true,
+    "curly": true,
+    "no-arg": true,
+    "no-bitwise": true,
+    "no-invalid-this": true,
+    "no-shadowed-variable": true,
+    "no-string-throw": true,
+    "no-this-assignment": true,
+    "no-var-keyword": true,
+    "restrict-plus-operands": true,
+    "deprecation": true,
+    "eofline": true,
+    "indent": [true, "tabs", 4],
+    "array-type": [true, "array"],
+    "arrow-return-shorthand": true,
+    "class-name": true,
+    "no-unnecessary-initializer": true,
+    "prefer-method-signature": true
+  }
+}
